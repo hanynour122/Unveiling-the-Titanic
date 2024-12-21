@@ -8,8 +8,7 @@ The Titanic tragedy remains one of the most studied disasters in history. This p
 * How did variables like age, gender, class, and family size impact survival?
 * Can the data reveal trends and actionable insights?
 
-** This analysis is presented through an interactive Power BI dashboard, supported by Python-based preprocessing and exploration.
-**
+**This analysis is presented through an interactive Power BI dashboard, supported by Python-based preprocessing and exploration.**
 
 ##  Project Target
 1. **Analyze survival patterns** across key demographics.
