@@ -19,7 +19,7 @@ The Titanic tragedy remains one of the most studied disasters in history. This p
 
 ## 🛠️ Tools and Technologies
 - **SQL**:
-  - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn for data preprocessing, cleaning, and exploration.
+  -  data preprocessing, cleaning, and exploration.
 - **Power BI**:
   - Interactive dashboards for advanced visualizations.
   - DAX measures and calculated columns for additional insights.
